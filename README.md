@@ -1,0 +1,2 @@
+# fridaysExerciseJava
+Contains java exercises
