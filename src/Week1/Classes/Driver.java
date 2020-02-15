@@ -8,6 +8,6 @@ public class Driver {
         Rectangle r2 = new Rectangle(10, 2, "Green");
         Rectangle r3 = new Rectangle(15, 12, "Red");
 
-        r1.draw();
+        r3.draw();
     }
 }
